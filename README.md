@@ -1,7 +1,8 @@
-- 👋 Hello World! I’m @HenochJr
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Ruby and Python
-- 📫 henoch_junior@yahoo.com
+- 🖖🏾 Hello World! I’m @HenochJr
+- 🖥️ I'm interested in programming, cryptocurrencies and financial market
+- 🤓 I’m currently learning Python, Django and Ruby
+- 😎 I’m doing good with MQL5
+- 📫 henoch@henoch.dev
 
 <!---
 HenochJr/HenochJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
