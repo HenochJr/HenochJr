@@ -1,4 +1,5 @@
 - 🖖🏾 Hello World! I’m @HenochJr
+- 🔌 Electrical Engineer
 - 🖥️ I'm interested in programming, cryptocurrencies and financial market
 - 🤓 I’m currently learning Python, Django and Ruby
 - 😎 I’m doing good with MQL5
